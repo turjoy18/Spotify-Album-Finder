@@ -2,8 +2,6 @@
 
 **AlbumQuest** is a dynamic web application that enables users to search for albums by their favorite artists using the Spotify API. Built with modern web technologies, it offers a vibrant, festival-inspired user interface.
 
-![Uploading image.png…]()
-
 ## Features
 
 - **Artist Search**: Input an artist's name to retrieve their albums.
